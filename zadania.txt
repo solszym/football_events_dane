@@ -3,7 +3,8 @@
 3. Analiza w jaki sposób bramki zostały strzelone: lewa noga, prawa noga, główka ( wykres kołowy, analiza
 wyniku + wykres w czasie meczu)
 4. Wykres lokalizacji strzelenia bramki.
-5. Wykres asyst ????
-6. Analiza zastępstw ??? w krtorej minucie/jak czesto sa
+5. Wykres asyst 
+6. Analiza zastępstw 
 7. Analiza czerwonych/żółtych kartek np w czasie, jaka ilość itp
 8. Analiza karnych wg miejsca na boisku, sukces karnego itp
+
